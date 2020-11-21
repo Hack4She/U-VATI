@@ -11,15 +11,12 @@
   <h3 align="center">U-VATI</h3>
 
   <p align="center">
-    WE CAN MARCH:point_down:
- Your gender shouldn't decidede whether you get education
+    WE CAN MARCH :point_down: 
+ <br />
+ Your gender shouldn't decide whether you get education
     <br />
     
  
-
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
 <!-- ABOUT THE PROJECT -->
 ## ABOUT THE WEBSITE
 
@@ -37,7 +34,8 @@ The website was started with the aim of helping, supporting and reaching out to 
 
 ## Stay assured that this is a place for learning, discovery, innovation, expression and discourse for the precious women out there.:smile:
 
-# Content
+<!-- CONTENTS -->
+# CONTENTS
  * _Home Page_ -
    - Website name and its theme.
  * About the wbsite *U-VATI* and the vision of the *U-VATI* creators.
@@ -52,7 +50,7 @@ The website was started with the aim of helping, supporting and reaching out to 
 ### Built With
 The technologies that we have used are:
 * **CSS**
-* **HTML
+* **HTML**
 
 # Creators
  *  Vatsla Adhikari - Front end, Designing, Logo
@@ -61,13 +59,6 @@ The technologies that we have used are:
 
 
 
-<i class="fas fa-book"></i>
-
-+ This is an educational website for women empowerment by women.
- + Its main objective is to to provide all educational information collectively in one website
-   to make it easy for the users to get all data at one place.
- + It is a non profitable website with the only one aim of women empowerment through education in non conventional fields.
- 
 
 
 
