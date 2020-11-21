@@ -11,7 +11,7 @@
   <h3 align="center">U-VATI</h3>
 
   <p align="center">
-    WE CAN MARCH
+    WE CAN MARCH:point_down:
  Your gender shouldn't decidede whether you get education
     <br />
     
@@ -19,7 +19,6 @@
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
-$('.single-item').slick();
 
 <!-- ABOUT THE PROJECT -->
 ## ABOUT THE WEBSITE
@@ -56,13 +55,13 @@ The technologies that we have used are:
 * **HTML
 
 # Creators
- * # Vatsla Adhikari - Front end, Designing, Logo
- * # Yashi Srivastava - Content, Images, Brainstorming
- * # Aditi Mishra - Content, Images
+ *  Vatsla Adhikari - Front end, Designing, Logo
+ *  Yashi Srivastava - Content, Images, Brainstorming
+ *  Aditi Mishra - Content, Images
 
 
 
-
+<i class="fas fa-book"></i>
 
 + This is an educational website for women empowerment by women.
  + Its main objective is to to provide all educational information collectively in one website
