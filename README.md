@@ -14,14 +14,14 @@
 ## ABOUT THE WEBSITE :sunny:
 
 
-The origin of this website comes from Hack4She 2020 hackathon, which focuses on women upliftment. 
+:star2: The origin of this website comes from Hack4She 2020 hackathon, which focuses on women upliftment. 
 The website was started with the aim of helping, supporting and reaching out to women all across India with educational information, opportunities, blogs and interactive Mentorship sessions. U-VATI solely aims for gender equality which can be achieved through awareness provided to the clients in an efficient and centralised manner, with a single website including all possible educational resources so that the targetted audience can easily and effectively extract information about any educational query or topic. The products applicable are -
 
 * Encyclopedias:blue_book: that will comprise all the scholarships, internships and jobs openings in various companies.
-* A blog section to encourage women to come to the forefront 
+* A blog section :memo: to encourage women to come to the forefront 
                    via real life stories. To provide solutions to women centric problems.
 
-* A personalised guidance to have one on one interaction with the Mentor.
+* A personalised guidance :two_women_holding_hands: to have one on one interaction with the Mentor.
 * A Contact Us :phone: for further queries or individual suggestions.
 
 ## Stay assured that this is a place for learning, discovery, innovation, expression and discourse for the precious women out there.:smile:
@@ -41,8 +41,10 @@ The website was started with the aim of helping, supporting and reaching out to 
    -For any further query or feedback
 ### Built With
 The technologies that we have used are:
+<br />
+:pencil2: **HTML** 
+<br />
 :pencil2: **CSS**
-:pencil2: **HTML**
 
 # Creators :mortar_board:
  *  Vatsla Adhikari - Front end, Designing, Logo
