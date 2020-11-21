@@ -17,27 +17,27 @@
 :star2: The origin of this website comes from Hack4She 2020 hackathon, which focuses on women upliftment. 
 The website was started with the aim of helping, supporting and reaching out to women all across India with educational information, opportunities, blogs and interactive Mentorship sessions. U-VATI solely aims for gender equality which can be achieved through awareness provided to the clients in an efficient and centralised manner, with a single website including all possible educational resources so that the targetted audience can easily and effectively extract information about any educational query or topic. The products applicable are -
 
-* Encyclopedias:blue_book: that will comprise all the scholarships, internships and jobs openings in various companies.
-* A blog section :memo: to encourage women to come to the forefront 
+:cyclone: Encyclopedias:blue_book: that will comprise all the scholarships, internships and jobs openings in various companies.
+:cyclone: A blog section :memo: to encourage women to come to the forefront 
                    via real life stories. To provide solutions to women centric problems.
 
-* A personalised guidance :two_women_holding_hands: to have one on one interaction with the Mentor.
-* A Contact Us :phone: for further queries or individual suggestions.
+:cyclone: A personalised guidance :two_women_holding_hands: to have one on one interaction with the Mentor.
+:cyclone: A Contact Us :phone: for further queries or individual suggestions.
 
 ## Stay assured that this is a place for learning, discovery, innovation, expression and discourse for the precious women out there.:smile:
 
 <!-- CONTENTS -->
 # CONTENTS
- * _Home Page_ -
+ :small_blue_diamond: _Home Page_ :house_with_garden: -
    - Website name and its theme.
- * About the wbsite *U-VATI* and the vision of the *U-VATI* creators.
- * _Encyclopedia_ :books: -
+ :small_blue_diamond: About the wbsite *U-VATI* and the vision of the *U-VATI* creators.
+ :small_blue_diamond: _Encyclopedia_ :books: -
    - Providing updated offers of jobs, scholarships and internships only for women.
- * _Blogs_ :memo: -
+ :small_blue_diamond: _Blogs_ :memo: -
    - Stories about the hereoines of our country who continiously break the norms and proove that success sees no gender.
- * _Mentorship_ :two_women_holding_hands: - 
+ :small_blue_diamond: _Mentorship_ :two_women_holding_hands: - 
    - Mentors for one on one guidance and support.
- * _Contact Us_ :telephone_receiver: -
+ :small_blue_diamond: _Contact Us_ :telephone_receiver: -
    -For any further query or feedback
 ### Built With
 The technologies that we have used are:
