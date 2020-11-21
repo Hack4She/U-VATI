@@ -1,8 +1,7 @@
 
  
  
-  <h3 align="center"> ### U-VATI</h3>
-  ![Uploading 2..png…]()
+  <h3 align="center">  U-VATI</h3>
 
   <p align="center">
     WE CAN MARCH :point_down: 
@@ -23,7 +22,7 @@ The website was started with the aim of helping, supporting and reaching out to 
                    via real life stories. To provide solutions to women centric problems.
 
 * A personalised guidance to have one on one interaction with the Mentor.
-* A Contact Us for further queries or individual suggestions.
+* A Contact Us :phone: for further queries or individual suggestions.
 
 ## Stay assured that this is a place for learning, discovery, innovation, expression and discourse for the precious women out there.:smile:
 
@@ -32,18 +31,18 @@ The website was started with the aim of helping, supporting and reaching out to 
  * _Home Page_ -
    - Website name and its theme.
  * About the wbsite *U-VATI* and the vision of the *U-VATI* creators.
- * _Encyclopedia_:books: -
+ * _Encyclopedia_ :books: -
    - Providing updated offers of jobs, scholarships and internships only for women.
- * _Blogs_:memo: -
+ * _Blogs_ :memo: -
    - Stories about the hereoines of our country who continiously break the norms and proove that success sees no gender.
- * _Mentorship_ - 
+ * _Mentorship_ :two_women_holding_hands: - 
    - Mentors for one on one guidance and support.
  * _Contact Us_ :telephone_receiver: -
    -For any further query or feedback
 ### Built With
 The technologies that we have used are:
-* **CSS**
-* **HTML**
+:pencil2: **CSS**
+:pencil2: **HTML**
 
 # Creators :mortar_board:
  *  Vatsla Adhikari - Front end, Designing, Logo
