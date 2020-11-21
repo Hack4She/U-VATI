@@ -48,6 +48,7 @@ The technologies that we have used are:
  *  Vatsla Adhikari - Front end, Designing, Logo
  *  Yashi Srivastava - Content, Images, Brainstorming
  *  Aditi Mishra - Content, Images
+<br />
 (editing done by all)
 
 
