@@ -19,6 +19,7 @@
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
+$('.single-item').slick();
 
 <!-- ABOUT THE PROJECT -->
 ## ABOUT THE WEBSITE
