@@ -1,7 +1,7 @@
 
  
  <p align="center">
-  <img src = "https://user-images.githubusercontent.com/66550011/100101563-6a5f6a00-2e88-11eb-8057-51f56b2ed377.png" width="200" height="200"/>
+  <img src = "https://user-images.githubusercontent.com/66550011/100101563-6a5f6a00-2e88-11eb-8057-51f56b2ed377.png" width="150" height="150"/>
  </p>
   <h3 align="center">  U-VATI</h3>
 
